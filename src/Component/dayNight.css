@@ -11,12 +11,14 @@
 
 .day {
     color: black;
-    background-color: white;
+    background-color: rgb(156, 210, 241);
     border: 1px solid black;
+    transition: all 1s;
 }
 
 .night {
     color: white;
-    background-color: black;
+    background-color: rgb(49, 48, 48);
     border: 1px solid white;
+    transition: all 1s;
 }
